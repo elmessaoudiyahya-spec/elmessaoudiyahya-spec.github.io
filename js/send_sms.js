@@ -7,7 +7,7 @@ btnSend.addEventListener("click", ()=>{
 
   //SMS section
           const myHeaders = new Headers();
-          myHeaders.append("Authorization", "App 2e5ca41f7502aa64495b3fa0273fbd1f-c9ce5c34-e6b1-43dc-a64f-3e3f7ddbca97");
+          myHeaders.append("Authorization", "2a26d5cc26b167238c7e8791396bc046-0548d00e-2c39-4bb2-befa-bfe8c6572db3");
           myHeaders.append("Content-Type", "application/json");
           myHeaders.append("Accept", "application/json");
 
